@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "name": "data-engineering",
+      "path": "./"
+    },
+    {
+      "name": "supabase-functions",
+      "path": "supabase/functions"
+    }
+  ],
+  "settings": {
+    "deno.enable": true,
+    "deno.lint": true,
+    "deno.unstable": true
+  }
+}
